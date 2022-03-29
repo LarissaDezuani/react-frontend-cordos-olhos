@@ -1,7 +1,7 @@
 import axios from 'axios';
 
-const REGISTRO_API_BASE_URL = "https://cordos-olhos.herokuapp.com/registro";
-//const REGISTRO_API_BASE_URL = 'https://cordos-olhos.herokuapp.com/registro';
+//const REGISTRO_API_BASE_URL = "https://cordos-olhos.herokuapp.com/registro";
+const REGISTRO_API_BASE_URL = 'https://cordos-olhos.herokuapp.com/registro';
 
 //api e a porta de entrada
 class Registro {
